@@ -1,0 +1,16 @@
+ <div class="box-grid">
+                <img src="images/illustration-flowing-conversation.svg" alt="">
+                <h2 class="h-secondary centre">Flowing Conversation</h2>
+                <p class="centre">
+                 You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow.
+                </p>
+            </div>
+            <div class="box-grid">
+                <img src="images/illustration-your-users.svg">
+                <h2 class="h-secondary centre">Your Users</h2>
+                <p class="centre">
+                    It takes no time at all to integrate Huddle with your app's
+                    authentication solution. This means, once signed in to
+                    your app, your users can start chatting immediately.
+                </p>
+            </div>

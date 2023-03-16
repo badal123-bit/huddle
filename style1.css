@@ -1,0 +1,31 @@
+.row {
+    position: relative;
+    box-sizing: border-box;
+    border: 2px solid #fff;
+    margin: 100px 16px;
+    border-radius: 15px;
+    background-color: #fff;
+    PADDING: 50PX 50PX;
+    box-shadow: 0px 0px 10px 1PX #cfcece;
+    display: flex;
+
+  }
+  
+  .column h2{
+    margin-top: 15%;
+    font-size: 1.5rem;
+    text-align: left;
+    
+  }
+
+
+
+.column img{
+   height: 350px;
+    width: 425px;
+}
+
+.column :nth-child(2){
+    height: 100%;
+}
+
